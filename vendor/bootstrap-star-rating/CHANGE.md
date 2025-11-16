@@ -54,7 +54,7 @@ Change Log: `bootstrap-star-rating`
         - allow use of arrow `right` and arrow `left` keyboard buttons to change the rating value
     - New property `mouseEnabled` - defaults to `true` 
         - when set to false - the mouse cannot be used to change the ratings
-- (enh #111): Add titles to individual star elements.
+- (enh #211654): Add titles to individual star elements.
   - New config property `starTitles` (can be set as object or function) - will set the title for each star
 - (enh #110): Hover events reworked. New events added `rating:mouseenter` and `rating:mouseleave`
 ```
